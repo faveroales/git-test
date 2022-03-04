@@ -1,1 +1,22 @@
+<<<<<<< HEAD
 ciao cacca
+=======
+setup()
+{
+	pinMode(2,OUTPUT);
+}
+
+
+main()
+{
+
+	while(true)
+	{	
+	  print("You are beautiful");
+	  msleep(500);
+	}
+
+}
+
+
+>>>>>>> devel2
