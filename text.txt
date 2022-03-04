@@ -1,7 +1,9 @@
 setup()
 {
 	pinMode(2,OUTPUT);
-}
+	pinMode(2,3);
+	serial.Begin(9600);
+	}
 
 
 main()
