@@ -5,3 +5,17 @@ prova devel 1 cambio
 prova master add e commit insieem
 
 prova git 222222
+
+
+main()
+{
+
+	while(true)
+	{	
+	  print("You are beautiful");
+	  msleep(500);
+	}
+
+}
+
+
